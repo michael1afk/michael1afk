@@ -10,12 +10,12 @@ A bitboard Connect Four bot with alpha-beta negamax, iterative deepening and tra
 **[Candogram](https://github.com/michael1afk/Candogram)** · Python, Node.js · [Live demo](https://candogram.onrender.com/)
 An interactive 3D map of career paths through 2,362 NYC government job postings. TF-IDF, SVD and t-SNE place every job on the map, a custom scoring step links each role to its likely next step, and an Express + Plotly.js app lets you filter and walk the paths. Built for Candogram through Break Through Tech AI Studio.
 
-**[Realtime Collaborative Editor](https://github.com/michael1afk/CollabrativeEditor)** · TypeScript, React
+**[Realtime Collaborative Editor](https://github.com/michael1afk/CollaborativeEditor)** · TypeScript, React
 A Google Docs-style editor where several people edit the same document at once, using Yjs CRDTs over WebSockets, with PostgreSQL persistence, Redis pub/sub and role-based access control.
 
 ### Right now
 
-- Researching R-CNN object detection in Prof. Lindsay's lab at NYU
+- Researching R-CNN object detection in the Lindsay Lab at NYU
 - Porting the Connect Four engine to C++
 - Building a graph neural network that predicts bugs from code structure
 
